@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'default' => 'mysql',
+    'default' => 'mysql'),
 
     /*
     |--------------------------------------------------------------------------
@@ -43,8 +43,8 @@ return [
             'driver' => 'mysql',
             'host' => '127.0.0.1',
             'port' => '3306',
-            'database' => 'blog',
-            'username' => 'root',
+            'database' => 'forge',
+            'username' => 'forge',
             'password' => '',
             'unix_socket' => '',
             'charset' => 'utf8mb4',
